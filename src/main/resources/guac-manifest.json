@@ -1,0 +1,12 @@
+{
+
+    "guacamoleVersion" : "1.0.0",
+
+    "name"      : "Tutorial Authentication Extension",
+    "namespace" : "guac-auth-cookie",
+
+    "authProviders" : [
+        "au.org.massive.guacamole.auth.CookiesAuthenticationProvider"
+    ]
+
+}
